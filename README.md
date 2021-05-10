@@ -6,6 +6,6 @@ This project is for study and uses:
 - Micronaut
 - PROTOBUF
 
-## Create by
+## Developer
 
 - Dante Cesar Basso Filho (dcbasso@gmail.com)
