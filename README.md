@@ -8,4 +8,4 @@ This project is for study and uses:
 
 ## Create by
 
-- Dante Basso (dcbasso@gmail.com)
+- Dante Cesar Basso Filho (dcbasso@gmail.com)
